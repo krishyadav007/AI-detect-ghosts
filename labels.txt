@@ -1,5 +1,5 @@
 index class
-0 Kasper
+0 Casper
 1 Annabelle
 2 GhostlyTales
 3 KingHamlet
