@@ -1,3 +1,4 @@
+index class
 0 Kasper
 1 Annabelle
 2 GhostlyTales
